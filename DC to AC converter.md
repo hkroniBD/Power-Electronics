@@ -1,5 +1,7 @@
 # DC to AC Inverters
-## Course: EE 345 | Lecture 4
+- 🎓 EEE 513 - Advanced Power Electronics (2.00 Credits) | Lecture 1
+- 👨‍🎓 Md. Hassanul Karim Roni, Assistant Professor, EEE, HSTU, Dinajpur
+- 📧 hkroni@tch.hstu.ac.bd
 
 ---
 
